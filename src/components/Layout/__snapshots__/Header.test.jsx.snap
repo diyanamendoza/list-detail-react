@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render a header 1`] = `
+<div>
+  <header>
+    <a
+      href="/"
+    >
+      <h1>
+        Avatar: The Last Airbender
+      </h1>
+      <span>
+        --------------
+      </span>
+      <h2>
+        Character List
+      </h2>
+    </a>
+  </header>
+</div>
+`;
